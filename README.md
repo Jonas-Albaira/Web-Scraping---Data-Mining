@@ -35,7 +35,11 @@ Scrape data for game Tampa vs Philadelphia
               home  away
     attempts     0     0
     scores       0     0
-    
+ 
+ Returns shootout results during the game. 
+ 
+ *Since it didn't go to shootout, results show 0
+ 
 ----------------------------------------------------------------------------------------------
 Code Instructions to Retrieve Data
 
