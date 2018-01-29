@@ -50,6 +50,8 @@ Code Instructions to Retrieve Data
     
     ![alt text](https://github.com/Jonas-Albaira/SOFE-4620-Assignment-1/blob/master/retrieveData.PNG)
     
+    Dates > 0 > games > lineScore > shootoutInfo 
+    
 4) Run application. Saves automatically to a csv file
     
     
