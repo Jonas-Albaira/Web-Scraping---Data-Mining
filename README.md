@@ -11,11 +11,11 @@ Setup - Windows
 
 2) In the project root folder (JonasAlbaira), run cmd as admin to create a Virtual Environment
 
-    pip install virtualenv virtualenvwrapper
-    virtualenv venv
-    venv\Scripts\activate
-    pip install -r requirements.txt
-    deactivate
+        pip install virtualenv virtualenvwrapper
+        virtualenv venv
+        venv\Scripts\activate
+        pip install -r requirements.txt
+        deactivate
     
 3)  Skip DB installation
 
@@ -25,7 +25,7 @@ Setup - Windows
     matplotlib
     requests
     
-    eg) pip install pandas
+        pip install pandas
 
 
 Usage Example
@@ -42,8 +42,10 @@ Code Instructions to Retrieve Data
 1) Open Developer Tools > Network > XHR > pageWithAPIData
 2) To retrieve HEADER info to be put on the HEADER function of the application:
     Refer to the image below:
+    https://github.com/Jonas-Albaira/SOFE-4620-Assignment-1/blob/master/requestHeader.PNG
 3) To retrieve data from the API (in this case shootout info):
     Refer to the image below:
+    https://github.com/Jonas-Albaira/SOFE-4620-Assignment-1/blob/master/retrieveData.PNG
 4) Run application. Saves automatically to a csv file
     
     
